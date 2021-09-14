@@ -1,2 +1,1 @@
-# Kanvi
-Capstone Project
+# Capstone
